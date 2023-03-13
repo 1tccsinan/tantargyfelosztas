@@ -63,3 +63,10 @@ def tanar_oraszamanak_osszegzese(bok, be_nev):
     return osszeg
 
 print(f"A tanár heti óraszáma: {tanar_oraszamanak_osszegzese(beosztasok,be_tanarnev)}")
+
+# """"""
+# 5. feladat
+# Készítse el az of.txt fájlt, amely az osztályfőnökök nevét tartalmazza osztályonként
+# az alábbi formában (az osztályok megjelenítésének sorrendje a mintától eltérhet):
+
+
